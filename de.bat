@@ -1,1 +1,1 @@
-game\scripts\deactivate.bat
+transfer\scripts\deactivate.bat

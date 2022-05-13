@@ -1,1 +1,1 @@
-game\scripts\activate.bat
+transfer\scripts\activate.bat
